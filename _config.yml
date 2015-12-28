@@ -1,0 +1,28 @@
+name: Tstenig231
+favicon: null
+layout_spectrum: 0.31428511464037
+typography_spectrum: 0.677031293977052
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.22313820896670222
+  lightness: 0.42997574154287577
+  saturation: 0.7607277089264244
+  rhythmicContrast: 0.8830537192989141
+purpose: []
