@@ -1,11 +1,11 @@
-layout_spectrum: 0.08094435
+layout_spectrum: 1
 favicon: null
 name: Tstenig231
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 color:
   brandStrength: 0.3988196
-  lightness: 0.9191489
+  lightness: 0.493617
   saturation: 0.7489362
   rhythmicContrast: 0.8195615
   brandColors:
-    - '#C6D8E9'
-    - '#F23865'
-    - '#76A3BE'
-    - '#395476'
-    - '#271E20'
-typography_spectrum: 0.6104553
+    - '#9C9892'
+    - '#655C4B'
+    - '#FEFFFF'
+    - '#041588'
+    - '#0C0D16'
+typography_spectrum: 0.7191489
