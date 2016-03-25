@@ -3,9 +3,9 @@ favicon: null
 name: Tstenig231
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -23,13 +23,13 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
+  version: null
+  domain: null
 color:
   brandStrength: 0.3988196
-  lightness: 0.4266442
-  saturation: 0.2807757
+  lightness: 0.9191489
+  saturation: 0.7489362
   rhythmicContrast: 0.8195615
   brandColors:
     - '#C6D8E9'
